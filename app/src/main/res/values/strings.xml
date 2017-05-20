@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes...</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_opennote">Notes</string>
+    <string name="drawer_open">Drawerisopen</string>
+    <string name="drawer_close">DrawerClosed</string>
+    <string name="title_activity_recycle_bin">RecycleBin</string>
+</resources>
