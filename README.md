@@ -7,3 +7,4 @@ Upcoming features : Multimedia support, canvas support, different design of the 
 
 
 Any suggestion or change in existing app or suggestion to add a whole new feature is eagerly awaited.
+https://github.com/Dhrumilsoni/Simple-Notes/issues/1
